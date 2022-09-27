@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A developer from France</h3>
-
-<br/><br/>
-<h2 align="left">⚡️ A Quick Overview</h2>
-
 <a target="_blank" align="center">
   <img align="right" width="200" alt="GIF" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 </a>
+
+<h3 align="center">A developer from France</h3>
+
+<br/><br/>
+
+<h2 align="left">⚡️ A Quick Overview</h2>
 
 - 👀 I’m interested in **a lot of stuff actually**
 
@@ -50,8 +51,8 @@
 <details>
 <summary>	📈 Some more stats for data lovers</summary>
 <br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilyep&show_icons=true&locale=en&theme=tokyonight&bg_color=20,1D2671,C33764" alt="evilyep" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilyep&theme=tokyonight" alt="evilyep" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilyep&show_icons=true&locale=en&theme=tokyonight&bg_color=20,1D2671,C33764" alt="evilyep" width="49%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilyep&theme=tokyonight" alt="evilyep" width="49%"/></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/evilyep)  
 </details>
