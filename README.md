@@ -43,9 +43,11 @@
 <h3 align="center">Favourite browser</h3>
 <p align="center"> <a href="https://www.mozilla.org/firefox/new" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40"/> </a> </p>
 
-| | |
-| - | - |
-| <a href="https://myoctocat.com/" target="_blank"><img align="center" width="600" alt="skyline octocat" src="./assets/octocat.png"></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilyep&layout=compact&theme=tokyonight" width="300" /></a> <a href="https://skyline.github.com/evilyep/2021" target="_blank"><img src="https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" /><img src="https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" width="300"/></a> | 
+
+<a href="https://myoctocat.com/" target="_blank"><img align="center" width="350" alt="skyline octocat" src="./assets/octocat.png"></a> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilyep&layout=compact&theme=tokyonight" width="300" /></a> 
+
+<a href="https://skyline.github.com/evilyep/2021" target="_blank"><img src="https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" /><img src="https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" width="300"/> </a>
+
 
 <details>
 <summary>	📈 Some more stats for data lovers</summary>
