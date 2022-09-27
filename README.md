@@ -44,8 +44,8 @@
 
 <a href="https://myoctocat.com/" target="_blank"><img align="center" width="350" alt="skyline octocat" src="./assets/octocat.png"></a> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilyep&layout=compact&theme=tokyonight" width="300" /></a> 
 
-<a href="https://skyline.github.com/evilyep/2021" target="_blank">![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)</a>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/evilyep/evilyep/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<a href="https://skyline.github.com/evilyep/2021" target="_blank">🏙️ See as cool skyline (past year)</a>
 
 <details>
 <summary>	📈 Some more stats for data lovers</summary>
