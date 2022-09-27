@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 <a target="_blank" align="center">
-  <img align="right" width="200" alt="GIF" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
+  <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 </a>
+
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evilyep.evilyep&logo=github" alt="visitor badge" align="left"/>
 
 <h3 align="center">A developer from France</h3>
 
@@ -11,21 +13,25 @@
 
 - 👀 I’m interested in **a lot of stuff actually**
 
-- 🔭 I’m currently working on [my personal portfolio on which I just can't stop but add features and no actual content at all](https://github.com/EvilYep/Online-CV)
+- 🔭 I’m currently working on **[my personal portfolio on which I just can't stop but add features and no actual content at all](https://github.com/EvilYep/Online-CV)**
 
 - 🌱 I’m currently learning **totallly unrelated stuff (Unity), and also keeping up with Laravel and Vue.js**
 
 - 👯 I’m looking to collaborate on **anything interesting my low experience would allow me to**
 
-- 🤝 I’m looking for help with [my previous idea of a portfolio that "plays" like a video game](https://github.com/EvilYep/Portfolio)
+- 🤝 I’m looking for help with **[my previous idea of a portfolio that "plays" like a video game](https://github.com/EvilYep/Portfolio)**
+
+- 👨‍🏫 I used to be a teacher but resigned to become a full-time developer
 
 - 💬 Ask me about **how Portal 2 is the best game ever**
 
-- 👾 I love retro aesthetics and will try to implement the [Konami code](https://gist.github.com/EvilYep/7458b242d88ccfd91089591256c7ca80) whenever and wherever I can
+- 👾 I love **retro aesthetics** and will try to implement the **[Konami code](https://gist.github.com/EvilYep/7458b242d88ccfd91089591256c7ca80)** whenever and wherever I can
 
-- 📫 How to reach me **guillaume.moneret@gmail.com**
+- 🤘 I am a volunteer at many music festivals, notably Hellfest Open Air, the biggest metal gig in France (which means I'll probably be unavailable early to mid-June)
 
-- ⚡ Fun fact : **When I was young and we didn't care about how planes ruin the planet, in New Zealand, I skydived above Mordor**
+- 📫 How to reach me directly **guillaume.moneret@gmail.com**
+
+- ⚡ Fun fact : When I was young and we didn't care about how planes ruin the planet, in New Zealand, I skydived kinda above Mordor (Tongariro National Park)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,7 +55,7 @@
 <a href="https://skyline.github.com/evilyep/2021" target="_blank">🏙️ See as cool skyline (past year)</a>
 
 <details>
-<summary>	📈 Some more stats for data lovers</summary>
+<summary>	📈 <b>Some more stats for data lovers</b></summary>
 <br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilyep&show_icons=true&locale=en&theme=tokyonight&bg_color=20,1D2671,C33764" alt="evilyep" width="49%"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilyep&theme=tokyonight" alt="evilyep" width="49%"/></p>
@@ -63,7 +69,10 @@ Here's a random joke for your enjoyment
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evilyep.evilyep&logo=github" alt="visitor badge"/>
-
+<h3 align="center"><b>Show some ❤️ by starring some of the repositories!</b></h3>
+<p align="center">Or, if you like what I do you can</p>
+<p align="center">
+ <a href="https://ko-fi.com/guillaumem"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="168" alt="guillaumem" /></a>
+</p>
 
 
