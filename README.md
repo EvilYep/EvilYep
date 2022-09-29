@@ -15,23 +15,19 @@
 
 - 🔭 I’m currently working on **[my personal portfolio on which I just can't stop but add features and no actual content at all](https://github.com/EvilYep/Online-CV)**
 
-- 🌱 I’m currently learning **totallly unrelated stuff (Unity), and also keeping up with Laravel and Vue.js**
+- 🌱 I’m currently learning **totally unrelated stuff (Unity), and also keeping up to date with Laravel and Vue.js**
 
 - 👯 I’m looking to collaborate on **anything interesting my low experience would allow me to**
 
 - 🤝 I’m looking for help with **[my previous idea of a portfolio that "plays" like a video game](https://github.com/EvilYep/Portfolio)**
 
-- 👨‍🏫 I used to be a teacher but resigned to become a full-time developer
-
 - 💬 Ask me about **how Portal 2 is the best game ever**
 
 - 👾 I love **retro aesthetics** and will try to implement the **[Konami code](https://gist.github.com/EvilYep/7458b242d88ccfd91089591256c7ca80)** whenever and wherever I can
 
-- 🤘 I am a volunteer at many music festivals, notably Hellfest Open Air, the biggest metal gig in France (which means I'll probably be unavailable early to mid-June)
-
 - 📫 How to reach me directly **guillaume.moneret@gmail.com**
 
-- ⚡ Fun fact : When I was young and we didn't care about how planes ruin the planet, in New Zealand, I skydived kinda above Mordor (Tongariro National Park)
+- ⚡ Fun fact : **There are freaking ICE volcanoes on Pluto**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
