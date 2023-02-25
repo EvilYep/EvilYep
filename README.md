@@ -3,8 +3,6 @@
   <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 </a>
 
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evilyep.evilyep&logo=github" alt="visitor badge" align="left"/>
-
 <h3 align="center">A developer from France</h3>
 
 <br/><br/>
@@ -15,7 +13,7 @@
 
 - 🔭 I’m currently working on **[my personal portfolio on which I just can't stop but add features and no actual content at all](https://github.com/EvilYep/Online-CV)**
 
-- 🌱 I’m currently learning **totally unrelated stuff (Unity), and also keeping up to date with Laravel and Vue.js**
+- 🌱 I’m currently learning **totally unrelated stuff (Godot), and also keeping up to date with Laravel and Vue.js**
 
 - 👯 I’m looking to collaborate on **anything interesting my low experience would allow me to**
 
